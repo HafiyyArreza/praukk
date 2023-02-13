@@ -1,0 +1,11 @@
+body {
+    background-image: url(wallpaper4.jpg);
+}
+button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+.cilok{
+    font-size: 300%;
+}

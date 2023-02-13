@@ -1,0 +1,11 @@
+body {
+    background-image: url(wallpaper3.jpg);
+}
+button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+.batagor{
+    font-size: 300%;
+}
